@@ -1,0 +1,1 @@
+{"name":"fixtures","owner":{"name":"ishkhan42"},"metadata":{"description":"benign fixture"},"plugins":[{"name":"legit","source":"./plugins/legit","description":"benign","version":"1.0.0"}]}
